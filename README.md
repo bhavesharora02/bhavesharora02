@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavesharora02
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning ReactJS . Have a grip on HTML,CSS and JAVASCRIPT.
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Machine Learning and Implementing Projects!
 - 📫 How to reach me ...through bhavesharora127@gmail.com
 
 <!---
