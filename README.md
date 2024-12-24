@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesharora02&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesharora02" /> </p>
 
-- 🔭 I’m currently working on **Whatsapp Chat Analysis Project**
+- 🔭 I’m currently working on **AirBNB Full Stack Data Science project**
 
-- 🌱 I’m currently learning **Machine Learning, Cloud Computing and Social Network Analysis**
+- 🌱 I’m currently learning **Deep Learning, Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhavesharora02](https://github.com/bhavesharora02)
 
