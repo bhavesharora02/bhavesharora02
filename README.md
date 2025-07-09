@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Bhavesh</h1>
-<h3 align="center">A passionate Aspiring Data Scientist from India</h3>
+<h3 align="center">Data Scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesharora02&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesharora02" /> </p>
 
-- 🔭 I’m currently working on **AirBNB Full Stack Data Science project**
+- 🔭 I’m currently working on **Agentic AI Chatbot for Delight Learning**
 
-- 🌱 I’m currently learning **Deep Learning, Cloud Computing**
+- 🌱 I’m currently learning **Deep Learning, AGentic AI, Generative AI, Langchain, Langgraph**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhavesharora02](https://github.com/bhavesharora02)
 
 - 📫 How to reach me **bhavesharora127@gmail.com**
 
-- ⚡ Fun fact **I think I made for Data Engineering**
+- ⚡ Fun fact **I think I made for Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
